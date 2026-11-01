@@ -1,0 +1,98 @@
+[
+  {
+    "name": "counter",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Restaurant_Bits_1.0_FREE\\KayKit_Restaurant_Bits_1.0_FREE\\Assets\\gltf\\kitchencounter_straight_A.gltf",
+    "bytes": 30780,
+    "triangles": 168
+  },
+  {
+    "name": "upper",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Restaurant_Bits_1.0_FREE\\KayKit_Restaurant_Bits_1.0_FREE\\Assets\\gltf\\kitchencabinet.gltf",
+    "bytes": 29772,
+    "triangles": 156
+  },
+  {
+    "name": "fridge",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Restaurant_Bits_1.0_FREE\\KayKit_Restaurant_Bits_1.0_FREE\\Assets\\gltf\\fridge_A_decorated.gltf",
+    "bytes": 113484,
+    "triangles": 2398
+  },
+  {
+    "name": "stove",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Restaurant_Bits_1.0_FREE\\KayKit_Restaurant_Bits_1.0_FREE\\Assets\\gltf\\stove_multi.gltf",
+    "bytes": 77272,
+    "triangles": 1084
+  },
+  {
+    "name": "sink",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Restaurant_Bits_1.0_FREE\\KayKit_Restaurant_Bits_1.0_FREE\\Assets\\gltf\\kitchencounter_sink.gltf",
+    "bytes": 51760,
+    "triangles": 674
+  },
+  {
+    "name": "hood",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Restaurant_Bits_1.0_FREE\\KayKit_Restaurant_Bits_1.0_FREE\\Assets\\gltf\\extractorhood.gltf",
+    "bytes": 34672,
+    "triangles": 204
+  },
+  {
+    "name": "dishes",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Restaurant_Bits_1.0_FREE\\KayKit_Restaurant_Bits_1.0_FREE\\Assets\\gltf\\dishrack_plates.gltf",
+    "bytes": 60380,
+    "triangles": 880
+  },
+  {
+    "name": "board",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Restaurant_Bits_1.0_FREE\\KayKit_Restaurant_Bits_1.0_FREE\\Assets\\gltf\\cuttingboard.gltf",
+    "bytes": 24588,
+    "triangles": 38
+  },
+  {
+    "name": "pot",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Restaurant_Bits_1.0_FREE\\KayKit_Restaurant_Bits_1.0_FREE\\Assets\\gltf\\pot_B.gltf",
+    "bytes": 35408,
+    "triangles": 324
+  },
+  {
+    "name": "shelf",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Restaurant_Bits_1.0_FREE\\KayKit_Restaurant_Bits_1.0_FREE\\Assets\\gltf\\shelf_papertowel_decorated.gltf",
+    "bytes": 57244,
+    "triangles": 832
+  },
+  {
+    "name": "crate",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Restaurant_Bits_1.0_FREE\\KayKit_Restaurant_Bits_1.0_FREE\\Assets\\gltf\\crate.gltf",
+    "bytes": 31480,
+    "triangles": 132
+  },
+  {
+    "name": "vegetables",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Restaurant_Bits_1.0_FREE\\KayKit_Restaurant_Bits_1.0_FREE\\Assets\\gltf\\crate_tomatoes.gltf",
+    "bytes": 104424,
+    "triangles": 2072
+  },
+  {
+    "name": "bread",
+    "source": "tools\\JamAssets\\NewInterior\\Tiny_Treats_Baked_Goods_1.0_FREE\\Tiny_Treats_Baked_Goods_1.0_FREE\\Assets\\gltf\\bread.gltf",
+    "bytes": 33464,
+    "triangles": 454
+  },
+  {
+    "name": "croissant",
+    "source": "tools\\JamAssets\\NewInterior\\Tiny_Treats_Baked_Goods_1.0_FREE\\Tiny_Treats_Baked_Goods_1.0_FREE\\Assets\\gltf\\croissant.gltf",
+    "bytes": 33192,
+    "triangles": 404
+  },
+  {
+    "name": "plate",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Restaurant_Bits_1.0_FREE\\KayKit_Restaurant_Bits_1.0_FREE\\Assets\\gltf\\plate.gltf",
+    "bytes": 28604,
+    "triangles": 160
+  },
+  {
+    "name": "stool",
+    "source": "tools\\JamAssets\\NewInterior\\KayKit_Furniture_Bits_1.0_FREE\\KayKit_Furniture_Bits_1.0_FREE\\Assets\\gltf\\chair_stool_wood.gltf",
+    "bytes": 27824,
+    "triangles": 216
+  }
+]
